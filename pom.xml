@@ -27,7 +27,7 @@
         <id>deployment</id>
         <url>http://3.110.118.55:8081/repository/maven-releases</url>
     </repository>
-    <snapshotRepository>
+        <snapshotRepository>
         <id>deployment</id>
         <url>http://3.110.118.55:8081/repository/maven-snapshots</url>
     </snapshotRepository>
